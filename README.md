@@ -9,7 +9,7 @@ Bridging **big data architecture** with **AI research engineering** to enable th
 ---
 
 ## 🔹 About Me
-I’ve worked across consulting, enterprise, and research environments — from **Deloitte** and **Maersk** to **Oticon** — leading projects in **data engineering, infrastructure, and AI/ML research**.  
+I’ve worked across consulting, enterprise, and research environments — from **Deloitte** and **Maersk** to **Oticon** and **Deep AI Mind** — leading projects in **data engineering, infrastructure, and AI/ML research**.  
 I thrive in **zero-to-one environments**: taking ideas from concept to working prototypes, scaling them into production, and empowering teams with reliable systems.
 
 ---
