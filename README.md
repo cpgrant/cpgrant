@@ -1,49 +1,54 @@
-# 👋 Hi, I'm Christian Grant  
+# 👋 Hi, I’m Christian Grant
 
-*Building reliable data infrastructure & applied AI systems at scale*  
+*Building reliable data infrastructure, distributed systems, and applied AI tools.*
 
-**Big Data & AI Infrastructure Engineer | AI Research Engineer**  
-10+ years of experience designing large-scale **distributed systems**, **cloud data pipelines**, and building **applied AI prototypes**.  
-Bridging **big data architecture** with **AI research engineering** to enable the future of collaborative intelligence.  
+**Data Infrastructure & Applied AI Engineer**  
+10+ years of experience designing distributed systems, cloud data platforms, and practical AI software.
 
 ---
 
 ## 🔹 About Me
-I’ve worked across consulting, enterprise, and research environments — from **Deloitte** and **Maersk** to **Oticon** and **Deep AI Mind** — leading projects in **data engineering, infrastructure, and AI/ML research**.  
-I thrive in **zero-to-one environments**: taking ideas from concept to working prototypes, scaling them into production, and empowering teams with reliable systems.
+
+I’ve worked across consulting, enterprise, and research-oriented environments — including Deloitte, Maersk, Oticon, and Deep AI Mind — building systems in data engineering, infrastructure, and applied AI.
+
+My work sits at the intersection of data platforms, systems architecture, and intelligent software. I’m especially interested in AI systems that are useful, controllable, and production-aware.
+
+I enjoy taking projects from early concept to working implementation, with a focus on reliability, clarity, and strong engineering foundations.
 
 ---
 
 ## 🔹 Featured Projects
-- **[Cornell Movie Dialogs LoRA](https://github.com/cpgrant/cornell_movie_dialogs_lora)** (Public)  
-  Fine-tuning conversational LLMs using the Cornell Movie Dialogs dataset with LoRA adapters.  
 
-- **HeartSignal** (Private)  
-  Real-time heart sound recorder & visualizer (Python, audio DSP) for prototyping digital stethoscopes.  
+- **[ClarityOS](https://github.com/cpgrant/clarityos)**  
+  AI agent runtime and orchestration platform focused on traceability, controlled execution, and safe tool integration.
 
-- **Clinical LLM** (Private)  
-  Local LLM-powered assistant for diagnostic reasoning and treatment planning.  
+- **[MacShell](https://github.com/cpgrant/macshell)**  
+  Experimental local AI shell assistant for macOS using local LLMs, with confirmation gates and safety checks.
 
-- **[CarND-Capstone](https://github.com/cpgrant/CarND-Capstone)** (Public)  
-  Autonomous vehicle system integration project (computer vision, perception, trajectory planning).  
+- **HeartSignal** *(Private)*  
+  Real-time heart sound recording and visualization prototype built with Python and audio DSP.
+
+- **Clinical LLM** *(Private)*  
+  Local LLM-based assistant for diagnostic reasoning and treatment support workflows.
 
 ---
 
 ## 🔹 Skills & Tools
-**Distributed Systems & Data Engineering**  
-Apache Spark • Ray • Beam (some) • Kafka • Airflow • Hadoop • AWS • GCP • Azure • Data Lakes • Parquet • Batch & Streaming  
 
-**Programming Languages**  
-Python • SQL • Java  |  Rust (learning interest)  
+**Data Infrastructure & Distributed Systems**  
+Apache Spark • Ray • Kafka • Airflow • Hadoop • AWS • GCP • Azure • Data Lakes • Parquet • Batch & Streaming
 
-**AI/ML Research & Prototyping**  
-CNNs • LLMs • LoRA fine-tuning • Applied AI APIs  
+**Programming**  
+Python • SQL • Java • Rust *(exploring)*
 
-**Other Strengths**  
-System architecture & scaling • Performance tuning • Production debugging • Research–engineering collaboration  
+**Applied AI**  
+LLMs • agent systems • LoRA fine-tuning • CNNs • local AI workflows • applied AI APIs
+
+**Strengths**  
+System architecture • scaling • performance tuning • production debugging • research-to-engineering execution
 
 ---
 
-## 🔹 Links
-- 🌐 [LinkedIn](https://www.linkedin.com/in/cpgrant)  
-- 💻 [GitHub](https://github.com/cpgrant)  
+## 🔹 Focus Areas
+
+AI agent runtimes • local AI tools • data platforms • distributed systems • applied AI prototyping
