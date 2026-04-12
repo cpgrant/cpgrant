@@ -19,7 +19,7 @@ I enjoy taking projects from early concept to working implementation, with a foc
 
 ## 🔹 Featured Projects
 
-- **[ClarityOS](https://github.com/cpgrant/clarityos)**  
+- **[ClarityClaw](https://github.com/cpgrant/clarityclaw)**  
   AI agent runtime and orchestration platform focused on traceability, controlled execution, and safe tool integration.
 
 - **[MacShell](https://github.com/cpgrant/macshell)**  
