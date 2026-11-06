@@ -1,166 +1,97 @@
-# 👋 Hi, I'm Christian Grant
+# Christian Grant
 
-### AI Architect | AI Engineer | Agentic AI & Autonomous Systems
+### Enterprise AI Architect · AI Engineer · Autonomous Enterprise Systems
 
-*Designing enterprise AI architectures and building the models, agents, and infrastructure that make them work.*
+**Design · Build · Transform**
 
-📍 Copenhagen, Denmark | 🌐 [DeepAIMind](https://deepaimind.com)
+Designing AI-native enterprise architectures, building and validating their technical foundations, and exploring how organizations can operate with progressively greater — and governed — autonomy.
 
----
-
-## About Me
-
-I'm an AI architect and hands-on engineer with a background in enterprise architecture, distributed systems, data infrastructure, and applied artificial intelligence.
-
-My experience spans consulting, industry, and independent research, including work with **Deloitte, Maersk, Oticon, and DeepAIMind**.
-
-My work connects three disciplines:
-
-- **AI Architecture** — Enterprise AI platforms, reference architectures, security, governance, integration, and operationalization.
-- **AI Engineering** — Transformers, LLM training, fine-tuning, inference, model evaluation, and deployment.
-- **Agentic AI & Autonomous Systems** — Multi-agent systems, Digital Business Twins, decision intelligence, orchestration, and governed autonomy.
-
-I focus on bridging **AI strategy, architectural design, and working engineering implementations**.
+📍 Copenhagen, Denmark · 🌐 [DeepAIMind](https://deepaimind.com)
 
 ---
 
-## 🚀 Featured Projects
+## From Enterprise AI to the Autonomous Enterprise
 
-### AI Architecture
+![Five-level Autonomous Enterprise maturity model](assets/autonomous-enterprise.png)
 
-**[A-01 — Enterprise AI Reference Architecture](https://github.com/cpgrant/a-01-enterprise-ai-architecture)**
+*An exploratory maturity model — not a claim that every organization follows the same path. Business value depends on the use case, integration quality, controls and measurable outcomes.*
 
-Enterprise AI architecture covering platform components, integration, infrastructure, security, and operational governance.
+The goal is to connect **enterprise architecture**, **hands-on AI engineering**, and **operational business transformation**. Architecture defines how systems fit together. Engineering turns designs into measurable implementations. Autonomous Enterprise projects explore how those capabilities improve real business decisions and operations.
 
-### AI Engineering
+## Three connected project programmes
 
-**[AI-P03 — LoRA / QLoRA Fine-Tuning](https://github.com/cpgrant/03-lora-qlora-finetuning)**
-
-Parameter-efficient LLM fine-tuning, GPU memory optimization, model adaptation, and evaluation.
-
-**[Cornell Dialogues LoRA](https://github.com/cpgrant/cornell_movie_dialogs_lora)**
-
-Applied language-model fine-tuning experiments.
-
-**[Ray ML Demo](https://github.com/cpgrant/ray-ml-demo)**
-
-Distributed machine learning experimentation.
-
-### Agentic AI & Autonomous Systems
-
-**[ClarityClaw](https://github.com/cpgrant/clarityclaw)**
-
-AI agent runtime and orchestration platform focused on controlled execution, traceability, and safe tool integration.
-
-**[Autobiz](https://github.com/cpgrant/autobiz)**
-
-Experimental autonomous enterprise platform exploring AI agents, business operations, decision-making, execution, and learning loops.
-
-**[MacShell](https://github.com/cpgrant/macshell)**
-
-Local AI shell assistant for macOS with confirmation gates and safety checks.
+| Programme | Principle | Focus | Outcome |
+|:--|:--|:--|:--|
+| **AI-A — DESIGN** | Architect | Enterprise AI reference architectures, agents, knowledge, integration and governance | Systems that can be understood, integrated and governed |
+| **AI-E — BUILD** | Engineer | Models, training, fine-tuning, evaluations, inference and deployment | Working, tested and measurable AI components |
+| **AI-X — TRANSFORM** | Autonomous Enterprise | Operating models, Digital Business Twins, business processes and decision intelligence | Progressively autonomous, accountable business operations |
 
 ---
 
-## 🧠 AI Engineering — 12 Project Programme
+## AI-A — Enterprise AI Architecture
 
-A structured, hands-on engineering programme covering modern AI model development, training, optimization, evaluation, and deployment.
+A connected series of architecture projects, each with documented technical decisions, diagrams and focused proof-of-concept work.
 
-| # | Project | Focus |
-|---|---|---|
-| P01 | Transformer from Scratch | Attention, embeddings, transformer architecture |
-| P02 | Mini-LLM from Scratch | Tokenization, training, inference, evaluation |
-| P03 | LoRA / QLoRA Fine-Tuning | PEFT and GPU-efficient training |
-| P04 | Preference Optimization | Direct Preference Optimization (DPO) |
-| P05 | Automated LLM Evaluations | Benchmarks, evaluation pipelines |
-| P06 | Guardrails & Red Teaming | Prompt injection, adversarial testing |
-| P07 | Quantization & Inference | Memory, latency, throughput |
-| P08 | Model Distillation | Teacher-student training, compression |
-| P09 | Multimodal Sensor AI | Satellite imagery, sensor fusion |
-| P10 | Synthetic Data & Quality | Data generation and validation |
-| P11 | DeepSpeed Benchmark | Single-GPU optimization |
-| P12 | Model Deployment & Serving | APIs, containers, observability |
+| ID | Project | Status |
+|:--|:--|:--|
+| **AI-A01** | [Enterprise AI Reference Architecture](https://github.com/cpgrant/a-01-enterprise-ai-architecture) | Published |
+| **AI-A02** | [Agent Orchestration & A2A](https://github.com/cpgrant/a-02-agent-orchestration-a2a) | Published |
+| **AI-A03** | [Enterprise RAG & Knowledge](https://github.com/cpgrant/a-03-enterprise-knowledge-rag) | Published |
+| **AI-A04** | [MCP & Enterprise Integration](https://github.com/cpgrant/a-04-mcp-enterprise-integration) | Published |
+| **AI-A05** | AI Governance & Policy Enforcement | Planned |
+| **AI-A06** | Digital Business Twin Architecture | Planned |
 
-**Published engineering repository:**
+**Architecture direction:** trustworthy enterprise AI spanning data and knowledge, agents, tools, workflows, governance, observability and operational feedback.
 
-[AI-P03 — LoRA / QLoRA Fine-Tuning](https://github.com/cpgrant/03-lora-qlora-finetuning)
+## AI-E — AI Engineering
 
-The programme is being developed progressively. Additional code, results, and technical documentation will be linked as published.
+Practical experiments in the foundations and operation of modern AI, from model internals through training and serving.
 
----
+| ID | Project | Focus |
+|:--|:--|:--|
+| AI-E01 | Transformer from Scratch | Attention, embeddings, model architecture |
+| AI-E02 | Mini-LLM from Scratch | Tokenization, training, generation |
+| **AI-E03** | [LoRA / QLoRA Fine-Tuning](https://github.com/cpgrant/03-lora-qlora-finetuning) | Parameter-efficient training and GPU benchmarking |
+| AI-E04–E08 | Preference optimization, evaluations, guardrails, quantization, distillation | Alignment, validation and efficiency |
+| AI-E09–E12 | Multimodal sensor AI, synthetic data, DeepSpeed, deployment | Applied AI and operations |
 
-## 🏗️ Autonomous Enterprises — Research, Ideation & Exploration
+*The AI-E identifiers are portfolio labels; existing repository names do not need to change. Only projects with verified public links are linked here.*
 
-Through **[DeepAIMind](https://deepaimind.com)**, I explore the architecture, strategy, and evolution of AI-native and increasingly autonomous organizations.
+## AI-X — Autonomous Enterprise
 
-This research combines conceptual modelling, enterprise architecture, experimental implementations, and exploration of future operating models.
+A **planned ten-project applied-business programme** that brings architectural and engineering capabilities together into organizational operating models and working demonstrations.
 
-### Research Themes
+| ID | Proposed project | Business capability |
+|:--|:--|:--|
+| **AI-X01** | Autonomous Enterprise Operating Model | Organization, roles, decision rights, human oversight |
+| **AI-X02** | Business State & Digital Business Twin | Live state, events, metrics, simulation |
+| **AI-X03** | Autonomous Strategy & Planning | Objectives, scenarios, resource allocation |
+| **AI-X04** | AI-Native Organization & Management | Agent teams, delegation, escalation |
+| **AI-X05** | Autonomous Finance | Forecasting, controls, finance workflows |
+| **AI-X06** | Autonomous Operations | Enterprise processes, workflow orchestration |
+| **AI-X07** | Autonomous Customer & Revenue | Sales, marketing and customer operations |
+| **AI-X08** | Enterprise Decision Intelligence | Recommendations, risk, approval and optimization |
+| **AI-X09** | Autonomous Learning Enterprise | Outcomes, evaluation and learning loops |
+| **AI-X10** | Integrated Autonomous Enterprise Prototype | End-to-end governed demonstration |
 
-- AI-native and Zero-Human Company concepts
-- Autonomous enterprise operating models
-- Digital Business Twins and business state modelling
-- Multi-agent systems and organizational intelligence
-- Decision intelligence and simulation
-- Continuous learning and adaptation
-- Human oversight and bounded autonomy
-- Enterprise AI governance, security, and observability
-
-### Industry-Specific Explorations
-
-- **Autonomous Enterprises** — AI-native organizational architecture and operations
-- **Autonomous Airports** — Airport operations, Digital Twins, resource coordination, and disruption recovery
-- **Autonomous Hospitals** — Patient flow, capacity, logistics, and operational orchestration
-- **Autonomous Construction Sites** — Digital Twins, robotics, sensors, and operational coordination
-
-### Digital Business Twin
-
-A central research concept is the Digital Business Twin, connecting operational state, decision-making, simulation, execution, and continuous learning.
-
-**Business State → Decision Intelligence → Simulation → Execution → Outcomes → Learning**
-
-The goal is to investigate how organizations can move from conventional information systems toward measurable, governed, and progressively autonomous operations.
-
-Research, architecture, and publications: [DeepAIMind](https://deepaimind.com)
+*AI-A06 focuses on Digital Business Twin architecture; AI-X02 focuses on its operational application.*
 
 ---
 
-## 🛠️ Skills & Technology
+## Selected working systems
 
-**AI & Machine Learning**
+- **[Autobiz](https://github.com/cpgrant/autobiz)** — experimental autonomous-enterprise platform for business operations, agents and operational loops.
+- **[ClarityClaw](https://github.com/cpgrant/clarityclaw)** — agent runtime and orchestration with attention to controlled execution and traceability.
+- **[MacShell](https://github.com/cpgrant/macshell)** — local AI shell assistant for macOS with confirmation and safety checks.
 
-Python · PyTorch · TensorFlow · Transformers · LLMs · LoRA / QLoRA · CNNs · Agent Systems · Local AI
+## Background & research
 
-**Data Engineering & Distributed Systems**
+My work draws on enterprise architecture, distributed systems, data infrastructure, AI strategy and hands-on engineering, including experience across consulting and industry with **DeepAIMind, Deloitte, Maersk and Oticon**.
 
-Apache Spark · Ray · Kafka · Airflow · Hadoop · SQL · Data Lakes · Parquet · Streaming
+At [DeepAIMind](https://deepaimind.com), I explore **Digital Business Twins, AI-native operating models, governed autonomy and the evolution of autonomous enterprises**.
 
-**Infrastructure & Platforms**
-
-Linux · Ubuntu · WSL2 · Docker · Git · GitHub · AWS · Azure · GCP · PostgreSQL · APIs
-
-**Enterprise Architecture**
-
-AI Reference Architectures · Distributed Systems · Integration · Governance · Security · Observability · Reliability · Infrastructure as Code
-
-**Programming**
-
-Python · SQL · Java · Rust (exploring)
+**Engineering principle:** *Architecture should be implementable. Engineering should be measurable. Autonomy should be governed.*
 
 ---
 
-## 🎯 Engineering Philosophy
-
-**Architecture should be implementable. Engineering should be measurable. Autonomy should be governed.**
-
-My work focuses on connecting strategic AI concepts with reproducible engineering, working prototypes, and realistic operational constraints.
-
----
-
-## Connect
-
-🌐 [DeepAIMind](https://deepaimind.com)
-
-💻 [GitHub](https://github.com/cpgrant)
-
-📍 Copenhagen, Denmark
+[DeepAIMind](https://deepaimind.com) · [GitHub](https://github.com/cpgrant)
