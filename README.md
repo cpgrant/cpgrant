@@ -78,11 +78,17 @@ A **planned ten-project applied-business programme** that brings architectural a
 
 ---
 
-## Selected working systems
+### Earlier AI Experiments
 
-- **[Autobiz](https://github.com/cpgrant/autobiz)** — experimental autonomous-enterprise platform for business operations, agents and operational loops.
-- **[ClarityClaw](https://github.com/cpgrant/clarityclaw)** — agent runtime and orchestration with attention to controlled execution and traceability.
-- **[MacShell](https://github.com/cpgrant/macshell)** — local AI shell assistant for macOS with confirmation and safety checks.
+Previous explorations include [Autobiz](https://github.com/cpgrant/autobiz),
+[ClarityClaw](https://github.com/cpgrant/clarityclaw), and
+[MacShell](https://github.com/cpgrant/macshell).
+
+These experimental projects explored autonomous business operations,
+agent runtimes, and local AI tooling. They remain available as
+earlier research and development work.
+
+---
 
 ## Background & research
 
